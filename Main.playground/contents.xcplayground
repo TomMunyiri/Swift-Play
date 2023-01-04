@@ -3,5 +3,6 @@
     <pages>
         <page name='ifStatements'/>
         <page name='Untitled Page'/>
+        <page name='switchStatements'/>
     </pages>
 </playground>
